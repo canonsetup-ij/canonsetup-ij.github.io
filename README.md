@@ -1,6 +1,6 @@
 # Canon.com/ijsetup 
 
-[![Canon.com/ijsetup](get_started-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get_started-button-png.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 [Canon.com/ijsetup](https://canonsetup-ij.github.io/) is a website that provides you a safe, secure, and reliable platform for downloading the driver. To print directly from your computer, installing the driver on your system is necessary. After the driver configuration is done, you can use the software for controlling and commanding your printer to print your desirable documents. Hence, the web page lets all the Canon printer users to set up the driver on their devices without paying any additional cost. All you need to do is visit [Canon.com/ijsetup](https://canonsetup-ij.github.io/) and install the best-suited driver for your specific printer. Further, the web page also consists of online manuals of all the Canon printer specifications. So, you can review all the details about your printer whenever you need it. This guide will provide you descriptive and quick procedures by following which you can easily set up the driver on your system.
 
